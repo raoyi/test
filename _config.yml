@@ -1,16 +1,15 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
-description: >
-  Build Jekyll site with the GitBook style.
+author:           Rao Yi
+email:            hi@raoyi.com
+description:  Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://raoyi.net'
+baseurl:          '/test'
 rss:              RSS
 
 # markdown render engine.
